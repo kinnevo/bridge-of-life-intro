@@ -25,7 +25,7 @@ const CallToAction = () => {
               variant="secondary" 
               size="lg"
               className="gap-2 min-w-[200px] text-lg font-semibold hover:scale-105 transition-transform shadow-xl"
-              onClick={() => window.location.href = '/app'}
+              onClick={() => window.location.href = '/conversation'}
             >
               Enter the App
               <ArrowRight className="w-5 h-5" />

@@ -65,7 +65,7 @@ const Application = () => {
                 <div className="flex-1 pt-2">
                   <h3 className="font-semibold text-lg text-foreground mb-2">Embrace the Ritual</h3>
                   <p className="text-muted-foreground">
-                    Incorporate daily mindfulness practices. Our latteware collection helps you create meaningful moments.
+                    Incorporate daily mindfulness practices. Our LatteWare collection helps you create meaningful moments.
                   </p>
                 </div>
               </div>
