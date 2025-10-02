@@ -15,7 +15,7 @@ const About = () => {
     {
       icon: <Sparkles className="w-12 h-12" />,
       title: "Meaningful Rituals",
-      description: "Integrate mindful practices into your daily life with our curated LatteWare collection of cuestions, turning every moment into an opportunity for reflection."
+      description: "Integrate mindful practices into your daily life with our curated LatteWare collection of questions, turning every moment into an opportunity for reflection."
     }
   ];
 
