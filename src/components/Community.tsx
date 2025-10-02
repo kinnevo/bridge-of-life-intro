@@ -37,7 +37,7 @@ const Community = () => {
                 variant="default" 
                 size="lg"
                 className="gap-2"
-                onClick={() => window.open('https://wa.me/+1234567890', '_blank')}
+                onClick={() => window.open('https://chat.whatsapp.com/I2TUGgevAXjCzrgCibGAB8', '_blank')}
               >
                 <MessageCircle className="w-5 h-5" />
                 Join on WhatsApp

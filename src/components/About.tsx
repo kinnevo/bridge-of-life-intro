@@ -5,7 +5,7 @@ const About = () => {
     {
       icon: <Heart className="w-12 h-12" />,
       title: "Transformative Journey",
-      description: "Experience a profound reinvention of self through our carefully crafted program designed to unlock your true potential."
+      description: "Experience a profound reinvention of self through our carefully crafted activities designed to unlock your true potential."
     },
     {
       icon: <Users className="w-12 h-12" />,
@@ -15,7 +15,7 @@ const About = () => {
     {
       icon: <Sparkles className="w-12 h-12" />,
       title: "Meaningful Rituals",
-      description: "Integrate mindful practices into your daily life with our curated latteware collection, turning every moment into an opportunity for reflection."
+      description: "Integrate mindful practices into your daily life with our curated LatteWare collection of cuestions, turning every moment into an opportunity for reflection."
     }
   ];
 
