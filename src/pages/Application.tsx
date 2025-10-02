@@ -91,7 +91,7 @@ const Application = () => {
                 variant="hero" 
                 size="lg"
                 className="w-full gap-2"
-                onClick={() => window.open('https://wa.me/+1234567890', '_blank')}
+                onClick={() => window.open('/conversation', '_blank')}
               >
                 <CheckCircle className="w-5 h-5" />
                 Get Started Now
