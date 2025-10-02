@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowLeft, CheckCircle } from "lucide-react";
 import { Link } from "react-router-dom";
+import Footer from "@/components/Footer";
 
 const Application = () => {
   return (
@@ -109,6 +110,7 @@ const Application = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };

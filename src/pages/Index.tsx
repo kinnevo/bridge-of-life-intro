@@ -3,6 +3,7 @@ import About from "@/components/About";
 import Latteware from "@/components/Latteware";
 import Community from "@/components/Community";
 import CallToAction from "@/components/CallToAction";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
@@ -12,6 +13,7 @@ const Index = () => {
       <Latteware />
       <Community />
       <CallToAction />
+      <Footer />
     </main>
   );
 };
